@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="email-validator" />
+            <item index="1" class="java.lang.String" itemvalue="dnspython" />
+            <item index="2" class="java.lang.String" itemvalue="pip" />
+            <item index="3" class="java.lang.String" itemvalue="Flask-Bcrypt" />
+            <item index="4" class="java.lang.String" itemvalue="setuptools" />
+            <item index="5" class="java.lang.String" itemvalue="passlib" />
+            <item index="6" class="java.lang.String" itemvalue="bcrypt" />
+            <item index="7" class="java.lang.String" itemvalue="idna" />
+            <item index="8" class="java.lang.String" itemvalue="chardet" />
+            <item index="9" class="java.lang.String" itemvalue="certifi" />
+            <item index="10" class="java.lang.String" itemvalue="Brotli" />
+            <item index="11" class="java.lang.String" itemvalue="markdownify" />
+            <item index="12" class="java.lang.String" itemvalue="urllib3" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="flaskDemo.test.table" />
+          <option value="flaskDemo.app.flask_sqlalchemy" />
+          <option value="flaskDemo.app.SQLAlchemy" />
+          <option value="app.config.OSS_ACCESS_KEY_ID" />
+          <option value="app.utils.OSS_BASE_URL" />
+          <option value="app.config.OSS_ENDPOINT" />
+          <option value="app.config.OSS_BUCKET_NAME" />
+          <option value="app.config.OSS_ACCESS_KEY_SECRET" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
