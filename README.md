@@ -38,7 +38,7 @@ Results are evaluated on a held-out test set using ROC-AUC as the primary metric
 1. Clone this repository:
 ```bash
 git clone https://github.com/Elk1227/Final-project.git
-cd Final_Project
+cd Final-project
 ```
 2.Install dependencies:
 ```bash
